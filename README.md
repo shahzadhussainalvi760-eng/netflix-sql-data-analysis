@@ -47,19 +47,15 @@ directors, country-wise production, and more.
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Files
 
-\```
-netflix-sql-data-analysis/
-│
-├── README.md
-├── netflix_analysis.sql
-├── dataset/
-│   └── netflix_titles.csv
-├── results/
-│   └── query_results.pdf
-└── screenshots/
-\```
+| File | Description | Link |
+|------|-------------|------|
+| 📄 SQL Queries | Complete SQL script | [View SQL File](./NETFLIX%20SQL%20PROJECT.sql) |
+| 📊 Project PDF | Query results & output | [View PDF](./NETFLIX%20SQL%20PROJECT.pdf) |
+| 📋 Dataset | Netflix raw data (CSV) | [View Dataset](./Netflix_Data.csv) |
+| 📘 Complete Script | Full analysis script | [View Complete Script](./NETFLIX%20DATA%20ANALYSIS%20-%20COMPLETE%20SCRIPT....pdf) |
+| 📗 Practice PDF | Bilingual SQL practice | [View Practice PDF](./Netflix_SQL_Practice_Bilingual.pdf) |
 
 ---
 
