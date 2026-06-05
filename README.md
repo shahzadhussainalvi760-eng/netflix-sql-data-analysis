@@ -61,7 +61,7 @@ directors, country-wise production, and more.
 
 ## 🚀 How to Run
 
-1. Import `netflix_titles.csv` into your SQL environment
+1. Import `Netflix_Data.csv` into your SQL environment
 2. Open `netflix_analysis.sql`
 3. Execute queries one by one
 4. Compare results with `query_results.pdf`
