@@ -9,7 +9,7 @@ directors, country-wise production, and more.
 
 ## 🛠️ Tools Used
 - SQL (Microsoft SQL Server)
-- Netflix Titles Dataset (Kaggle)
+- Netflix raw data (Kaggle)
 
 ---
 
