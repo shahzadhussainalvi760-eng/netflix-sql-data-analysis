@@ -8,7 +8,7 @@ directors, country-wise production, and more.
 ---
 
 ## 🛠️ Tools Used
-- SQL (MySQL / PostgreSQL)
+- SQL (Microsoft SQL Server)
 - Netflix Titles Dataset (Kaggle)
 
 ---
