@@ -74,4 +74,4 @@ netflix-sql-data-analysis/
 
 ## 👤 Author
 **[Your Name]**  
-[LinkedIn Profile Link] | [Portfolio Link]
+[[LinkedIn Profile Link]](https://www.linkedin.com/in/shehzad-hussain-42a5443ab/) | [Portfolio Link]
