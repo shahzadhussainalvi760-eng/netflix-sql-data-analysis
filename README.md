@@ -69,5 +69,5 @@ directors, country-wise production, and more.
 ---
 
 ## 👤 Author
-**[Your Name]**  
-[[LinkedIn Profile Link]](https://www.linkedin.com/in/shehzad-hussain-42a5443ab/) | [Portfolio Link]
+**Shehzad Hussain**  
+[[LinkedIn Profile Link]](https://www.linkedin.com/in/shehzad-hussain-42a5443ab/) 
